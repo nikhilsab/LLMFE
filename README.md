@@ -20,6 +20,11 @@ pip install -r requirements.txt
 
 ## 🔧 Usage
 
+In `run_llmfe.sh` file, set the OPENAI API key under 
+```
+export API KEY = <ENTER YOUR API KEY>
+```
+
 To run the LLM-FE pipeline on a sample dataset:
 ```
 bash run_llmfe.sh
