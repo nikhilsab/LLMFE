@@ -1,1 +1,1 @@
-The datasets use open-source projects like [FeatLLM](https://github.com/Sungwon-Han/FeatLLM/tree/main) and [TST-LLM](https://github.com/Sungwon-Han/TST-LLM). We thank the original contributors of these works for open-sourcing their valuable source codes.
+The datasets use open-source projects like [FeatLLM](https://github.com/Sungwon-Han/FeatLLM/tree/main) and [TST-LLM](https://github.com/Sungwon-Han/TST-LLM). We thank the contributors of these works for open-sourcing their valuable source codes.
