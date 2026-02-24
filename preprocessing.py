@@ -1,3 +1,6 @@
+# Implementation adapted from CAAFE (Hollmann et al., 2023)
+# Original code: https://github.com/noahho/CAAFE/blob/main/caafe/preprocessing.py
+
 import pandas as pd
 import copy
 import numpy as np
