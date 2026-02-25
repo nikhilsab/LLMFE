@@ -30,6 +30,11 @@ To run the LLM-FE pipeline on a sample dataset:
 bash run_llmfe.sh
 ```
 
+### ✅ Evaluation
+
+- The **generated features** for each dataset are stored in the logs under the `samples/` folder.
+- To **run the evaluation**, open the `evaluation.ipynb` notebook and set the `pb_name` variable to the dataset name you want to evaluate (i.e., replace the existing dataset name in `pb_name` with your target dataset), then run the notebook cells.
+
 ## 📝 Citation
 ```
 @article{abhyankar2025llm,
